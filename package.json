@@ -29,7 +29,7 @@
     "dist"
   ],
   "dependencies": {
-    "@types/node": "*",
+    "@types/node": "10.3.6",
     "@types/openfin": "*"
   },
   "devDependencies": {
