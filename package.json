@@ -29,7 +29,7 @@
     "dist"
   ],
   "dependencies": {
-    "@types/node": "*",
+    "@types/node": ">=10.11.1",
     "@types/openfin": "*"
   },
   "devDependencies": {
